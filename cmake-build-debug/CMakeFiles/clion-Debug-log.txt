@@ -1,6 +1,0 @@
-/home/nattie/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/nattie/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/ninja/linux/x64/ninja -G Ninja -S /home/nattie/Pub/Code/hello-gl -B /home/nattie/Pub/Code/hello-gl/cmake-build-debug
--- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
--- Including X11 support
--- Configuring done
--- Generating done
--- Build files have been written to: /home/nattie/Pub/Code/hello-gl/cmake-build-debug
